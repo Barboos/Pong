@@ -1,3 +1,4 @@
 # Pong
-##### If u wanna play the game, just run Pong.exe
-##### Soon will be more games.
+##### Run Pong.exe to play
+###### Pong is one of the earliest arcade video games. 
+###### It is a table tennis sports game featuring simple two-dimensional graphics.
